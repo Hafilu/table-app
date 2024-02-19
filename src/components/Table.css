@@ -1,0 +1,52 @@
+.css-10w330c-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: #0437f2 !important;
+  color: white;
+}
+
+.css-1mxz8qt-MuiPaper-root {
+  border-radius: 20px !important;
+  margin-bottom: 0px !important;
+}
+
+.css-8atqhb {
+  width: 97.5% !important;
+  margin: 20px;
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+}
+
+.css-1q1u3t4-MuiTableRow-root {
+  background-color: rgb(55 155 255 / 12%) !important;
+}
+
+.dispatch-btn {
+  margin-inline: 10px !important;
+  background-color: #0437f2 !important;
+}
+
+.table-head {
+  width: 100% !important;
+}
+
+.table-title {
+  flex-grow: 1 !important;
+}
+@media (max-width: 600px) {
+  .css-pjjt8i-MuiToolbar-root {
+    display: block !important;
+  }
+  .css-8atqhb {
+    width: 90% !important;
+  }
+
+  .css-x60mlr-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+    width: 100% !important;
+    margin-block: 5px;
+  }
+
+  .dispatch-btn {
+    width: 100%;
+    margin-inline: 0px !important;
+    margin-block: 5px !important;
+  }
+}
